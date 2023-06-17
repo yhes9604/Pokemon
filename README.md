@@ -1,7 +1,7 @@
 # Pokemon 活動頁面切版練習
 
 ## DEMO
-網頁預覽： [DEMO](https://yhes9604.github.io/Pokemon/)
+網頁預覽： [DEMO](https://pokemon-2c054.web.app/)
 
 ## 使用技術
 * 引入 Bootstrap5，製作 RWD 響應式網頁
